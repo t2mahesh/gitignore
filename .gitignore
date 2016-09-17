@@ -33,6 +33,9 @@ proguard/
 # Android Studio
 .idea/workspace.xml
 .idea/libraries
+*.iml
+.navigation/
+captures/
 
 # Windows thumbnail db
 Thumbs.db
